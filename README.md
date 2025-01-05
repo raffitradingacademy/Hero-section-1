@@ -13,4 +13,4 @@ A responsive header and hero section built with HTML, Tailwind CSS, and Alpine.j
 ## How to Use
 - Clone the repository:
   ```bash
-  git clone https://github.com/raffitradingacademy/Hero-section-1/tree/95aeb017e66fb59acb2a3065191f13a30eaa6478
+  git clone [https://github.com/raffitradingacademy/Hero-section-1/tree/95aeb017e66fb59acb2a3065191f13a30eaa6478](https://github.com/raffitradingacademy/Hero-section-1.git)
